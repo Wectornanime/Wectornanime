@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/wectornanime">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wectornanime&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wectornanime&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wectornanime&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=dark"/>
 </div>
 
 ## Habilidades que tenho:
